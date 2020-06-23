@@ -1,0 +1,12 @@
+.sample-select {
+  background-color: black;
+  color: white;
+  float: left;
+  margin: 8px 0px 0px 45px;
+  width: 130px;
+  font-size: 20px;
+}
+
+.sample-select:focus {
+  outline-color: #16E6CC;
+}
